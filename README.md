@@ -17,5 +17,5 @@ instructions for running this c program on macOS terminal (WindowsOS whould be s
    if you want to reopen it, just repeat step 4-5
 7. if any updates have been made into the program and you want to delete the compiled file, type in rm en_decoder
 
-code by Gnatear 2025 Mar 30 6:17
+coded by Gnatear 2025 Mar 30 6:17
 Instructions updated 2025 Dec 6 18:10
