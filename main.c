@@ -4,7 +4,7 @@
 
 static char wordList[99999];
 
-//below is the comment I wrote in May... I hate myself - 2025 Dec 6 16:11
+//below is the comment I wrote in March... I hate myself - 2025 Dec 6 16:11
 //do i need comments to my future me?
 //i think i need but i won't write cuz i'm lazy
 static void stringClean(char *input) {
