@@ -1,5 +1,5 @@
 # vigenere-cipher-de-encoder
-It's a little fun project I did early 2025 in c. I recently found it in my folder, and decided to upload it.
+It's a little fun project I did early 2025 in c. I recently found it in my folder, and decided to upload it. \n
 Below is the origional readme when wrote these codes. - 2025 Dec 6 16:08
 
 Note::: it doesn't detect a return(new line). Please enter the contents in one whole paragraph (otherwise it will lost the track of the digit of previous unended loop)
@@ -17,5 +17,5 @@ instructions for running this c program on macOS terminal (WindowsOS whould be s
    if you want to reopen it, just repeat step 4-5
 7. if any updates have been made into the program and you want to delete the compiled file, type in rm en_decoder
 
-coded by Gnatear 2025 Mar 30 6:17
+coded by Gnatear 2025 Mar 30 6:17 \n
 Instructions updated 2025 Dec 6 18:10
